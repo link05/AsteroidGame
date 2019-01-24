@@ -2,10 +2,10 @@
 
 <br>Here is the link to of what the game actually looks like:
 https://www.youtube.com/watch?v=t0kE2Tq0aW4
-Here is the legend to breakdown what you saw in the video:
+<br><br>Here is the legend to breakdown what you saw in the video:<br><br>
 <img src="https://github.com/link05/AsteroidGame/blob/master/legend.PNG" width="150" height="150" align="left">
-<br><br><br><br><br>
-Game refers to Asteroid Mockup Game which I have created using Java and Codenameone.
+
+<br><br><br><br><br>Game refers to Asteroid Mockup Game which I have created using Java and Codenameone.
 <br><br>To see source code go to <em>game->src->com/mycompany/a3</em>
 <br>This project includes:<br>
     1). Source code files<br>
