@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=t0kE2Tq0aW4
     2). Sound files(for when missles are fired, asteroids destoryed...)<br>
     
 This project is done using MVC, along with command design pattern.
-<br><br>
+<br><br> 
 
 To get better idea I have taken the liberty to do the UML diagram for the source code:
 https://drive.google.com/file/d/1oLdSpZ3THAJgPN4blpLmnH6mdhhd4Y-g/view?usp=sharing
