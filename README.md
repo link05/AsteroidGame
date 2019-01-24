@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=t0kE2Tq0aW4
 
 <br> Here is the legend to breakdown what you saw in the video:
-<img src="https://github.com/link05/AsteroidGame/blob/master/legend.PNG" width="150" height="150" style="margin:0%;">
+<img src="https://github.com/link05/AsteroidGame/blob/master/legend.PNG" width="150" height="150" align="left">
 Game refers to Asteroid Mockup Game which I have created using Java and Codenameone.
 <br><br>To see source code go to <em>game->src->com/mycompany/a3</em>
 <br>This project includes:<br>
