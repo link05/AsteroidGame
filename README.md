@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=t0kE2Tq0aW4
 <br>Here is the legend to breakdown what you saw in the video:<br><br>
 <img src="https://github.com/link05/AsteroidGame/blob/master/legend.PNG" width="150" height="150" align="left">
 
-<br><br><br><br><br><br><br>I build this mockup of Asteroid game using Java and codename One (which is cross-platform framework with syntax of java)
+<br><br><br><br><br><br><br>I build this mockup of Asteroid game using Java and codename One (which is cross-platform framework with Java syntax)
 <br><br>To see source code go to <em>game->src->com/mycompany/a3</em>
 <br>This project includes:<br>
     1). Source code files<br>
