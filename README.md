@@ -2,7 +2,7 @@
 
 <br>Here is the link to of what the game actually looks like:
 https://www.youtube.com/watch?v=t0kE2Tq0aW4
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t0kE2Tq0aW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>Here is the legend to breakdown what you saw in the video:<br><br>
 <img src="https://github.com/link05/AsteroidGame/blob/master/legend.PNG" width="150" height="150" align="left">
 
